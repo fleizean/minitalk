@@ -53,3 +53,8 @@ alabilmelidir.
 		convert_char('\n', pid);
 		break ;
 	}
+	
+
+## Behavior - Nasıl Çalışır
+
+
