@@ -5,6 +5,7 @@
 
 ## Project Information - Proje Hakkında
 [EN] : The purpose of this project is to code a small data exchange program using UNIX signals.
+
 [TR] : Bu projenin amacı, UNIX sinyallerini kullanarak küçük bir veri değişim programını kodlamaktır.
 
 ## Mandatory Part - Zorunlu Bölüm
@@ -43,6 +44,7 @@ alabilmelidir.
 
 ### Additional Note - Ek Not
 [EN] : If you want it to send the other message on the bottom line after sending the first message, add this code in client.c main : 
+
 [TR] : Eğer bir mesaj yazdıktan sonra diğer mesajınızın karşı terminalde bir alt satıra geçerek yazdırmasını istiyorsanız şu kod satırını `client.c'de` main kısmındaki
 50. kod satırının altına ekleyin:
 
