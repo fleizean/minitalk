@@ -25,7 +25,7 @@ needing to restart.
 UNIX signals.
 • You can only use these two signals: SIGUSR1 and SIGUSR2.
 
-[----------------------------------------------------------------------------------------------------------------------------]
+[-------------------------------------------------------------------------------------------------------------]
 
 [TR] Client ve server şeklinde bir iletişim program oluşturmalısınız.
 • İlk olarak server başlatılmalıdır. Başlatıldıktan sonra PID’sini. yazdırması gerekir.
