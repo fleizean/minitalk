@@ -1,5 +1,13 @@
 # 42cursus - minitalk
 
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/fleizean/minitalk?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/last-commit/fleizean/minitalk?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/forks/fleizean/minitalk?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/fleizean?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/watchers/fleizean/minitalk?style=for-the-badge"/>
+</p>
+
 ## Project Information
 The purpose of this project is to code a small data exchange program using UNIX signals.
 
